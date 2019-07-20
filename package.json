@@ -1,0 +1,12 @@
+{
+  "id": "swipes",
+  "name": "Swipes",
+  "version": "1.0.0",
+  "description": "Swipes",
+  "main": "index.js",
+  "author": "Adith Shenoy",
+  "license": "",
+  "config": {
+    "serviceURL": "https://web.swipesapp.com/"
+  }
+}
